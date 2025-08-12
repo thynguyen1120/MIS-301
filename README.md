@@ -1,7 +1,7 @@
 # Final Project - MIS 301  
 **Global Retail Company Analysis**  
 
-[📄 View Full Report (PDF)](Final_project_MIS_301.pdf)
+[📄 View Full Report (PDF)](Final project_MIS 301.pdf)
 
 ---
 
