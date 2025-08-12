@@ -28,7 +28,7 @@ The goal is to clean, aggregate, and visualize the data to provide actionable in
 
 ### 2. Data Analysis
 #### Online vs. Physical Sales
-![Online vs Physical Sales](images/online_vs_physical.png)  
+![Online vs Physical Sales](online_vs_physical.png)  
 Online sales significantly outperform physical stores.
 
 #### Customer Gender Distribution
@@ -36,11 +36,11 @@ Online sales significantly outperform physical stores.
 Male: **50.8%**, Female: **49.2%** — balanced distribution.
 
 #### Store Distribution by Country
-![Store Distribution](images/store_distribution.png)  
+![Store Distribution](store_distribution.png)  
 The US has the highest store count, followed by Germany and the UK.
 
 #### Product Categories
-![Product Categories](images/product_categories.png)  
+![Product Categories](product_categories.png)  
 Top categories include **Home Appliances** and **Computers**.
 
 ---
