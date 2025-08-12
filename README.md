@@ -1,10 +1,6 @@
 # Final Project - MIS 301  
 **Global Retail Company Analysis**  
 
-[📄 View Full Report (PDF)](Final project_MIS 301.pdf)
-
----
-
 ## 📌 Introduction
 This project analyzes global retail sales data from multiple datasets, including Stores, Sales, Products, Exchange Rates, Data Dictionary, and Customers.  
 The goal is to clean, aggregate, and visualize the data to provide actionable insights for business decision-making.
