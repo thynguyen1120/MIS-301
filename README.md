@@ -11,24 +11,6 @@ The goal is to clean, aggregate, and visualize the data to provide actionable in
 
 ---
 
-## 📂 Project Structure
-├── final_project.py              # Python code for data analysis
-├── docs/
-│   └── Final_project_MIS_301.pdf # Full analysis report
-├── images/                       # Visualizations used in README
-│   ├── online_vs_physical.png
-│   ├── gender_distribution.png
-│   ├── store_distribution.png
-│   └── product_categories.png
-├── data/                         # Dataset files
-│   ├── Stores.csv
-│   ├── Sales.csv
-│   ├── Products.csv
-│   ├── Exchange_Rates.csv
-│   ├── Data_Dictionary.csv
-│   └── Customers.csv
----
-
 ## 🛠 Technologies Used
 - **Python**: Data processing and analysis
 - **Pandas**: Data cleaning and manipulation
@@ -50,7 +32,7 @@ The goal is to clean, aggregate, and visualize the data to provide actionable in
 Online sales significantly outperform physical stores.
 
 #### Customer Gender Distribution
-![Gender Distribution](images/gender_distribution.png)  
+![Gender Distribution](gender_distribution.png)  
 Male: **50.8%**, Female: **49.2%** — balanced distribution.
 
 #### Store Distribution by Country
